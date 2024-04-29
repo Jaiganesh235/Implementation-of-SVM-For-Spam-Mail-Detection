@@ -22,11 +22,6 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: S JAIGANESH
 RegisterNumber:  212222240037
 
-import chardet
-file="/content/spam.csv"
-with open(file,'rb') as rawdata:
-  result = chardet.detect(rawdata.read(100000))
-result
 import pandas as pd
 data=pd.read_csv("/content/spam.csv",encoding="Windows-1252")
 data.head()
