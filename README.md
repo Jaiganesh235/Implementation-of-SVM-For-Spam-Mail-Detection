@@ -91,6 +91,10 @@ print(c1)
 
 #### x_train
 ![image](https://github.com/yuvarajmonarch/Implementation-of-SVM-For-Spam-Mail-Detection/assets/122221735/b1eecc8c-261e-481d-9b13-62ea1de2be55)
+<br>
+<br>
+<br>
+<br>
 
 #### x_train.shape
 ![image](https://github.com/yuvarajmonarch/Implementation-of-SVM-For-Spam-Mail-Detection/assets/122221735/cd5fdc20-dde6-40ef-9423-65d3bd2aa274)
