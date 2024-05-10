@@ -20,6 +20,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Program:
 ```
