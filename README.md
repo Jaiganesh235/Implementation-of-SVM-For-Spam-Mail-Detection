@@ -14,6 +14,12 @@ To write a program to implement the SVM For Spam Mail Detection.
 #### Step-4: Import SVC from sklearn.
 #### Step-5: Fit the data in the model and run the algorithm.
 #### Step-6: Stop.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Program:
 ```
